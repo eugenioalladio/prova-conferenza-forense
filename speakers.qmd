@@ -1,0 +1,74 @@
+---
+title: "Invited Speakers"
+---
+
+## Keynote Speakers
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Prof. Name Surname {.unnumbered}
+
+![](images/placeholder-speaker.png){width=150 fig-align="left"}
+
+**Institution Name, Country**
+
+*Keynote: "Title of the Talk"*
+
+Prof. Surname is a leading expert in [field]. Their research focuses on [brief description]. They have published over XX papers and received numerous awards including [award name].
+
+[Personal website](https://example.com){.btn .btn-outline-primary .btn-sm}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Dr. Name Surname {.unnumbered}
+
+![](images/placeholder-speaker.png){width=150 fig-align="left"}
+
+**Institution Name, Country**
+
+*Keynote: "Title of the Talk"*
+
+Dr. Surname is renowned for their work on [topic]. They currently lead the [lab/group name] at [institution] and have made significant contributions to [field].
+
+[Personal website](https://example.com){.btn .btn-outline-primary .btn-sm}
+:::
+
+:::
+
+---
+
+## Invited Speakers
+
+### Prof. Another Speaker {.unnumbered}
+
+**Institution, Country**
+
+*Talk: "Title TBA"*
+
+Brief biography here.
+
+---
+
+### Dr. Yet Another Speaker {.unnumbered}
+
+**Institution, Country**
+
+*Talk: "Title TBA"*
+
+Brief biography here.
+
+---
+
+## Scientific Committee
+
+| Name | Institution | Country |
+|------|-------------|---------|
+| Prof. Name Surname | University of X | Country |
+| Dr. Name Surname | Institute Y | Country |
+| Prof. Name Surname | University of Z | Country |
+| Dr. Name Surname | Research Center W | Country |
+
+---
+
+*More speakers to be announced soon!*

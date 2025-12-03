@@ -1,0 +1,54 @@
+---
+title: "Contact Us"
+---
+
+## General Inquiries
+
+For general questions about the conference:
+
+📧 **Email**: [info@conference.org](mailto:info@conference.org)
+
+We aim to respond within 2-3 business days.
+
+---
+
+## Specific Contacts
+
+| Topic | Contact |
+|-------|---------|
+| Scientific program & abstracts | [scientific@conference.org](mailto:scientific@conference.org) |
+| Registration & payments | [registration@conference.org](mailto:registration@conference.org) |
+| Sponsorship opportunities | [sponsors@conference.org](mailto:sponsors@conference.org) |
+| Visa invitation letters | [visa@conference.org](mailto:visa@conference.org) |
+
+---
+
+## Organizing Committee
+
+**Conference Chair**
+Prof. Name Surname
+Institution
+📧 [email@institution.org](mailto:email@institution.org)
+
+**Local Organizing Committee**
+Dr. Name Surname
+Institution
+📧 [email@institution.org](mailto:email@institution.org)
+
+---
+
+## Follow Us
+
+Stay updated on conference news:
+
+- Twitter/X: [@ConferenceName](https://twitter.com)
+- LinkedIn: [Conference Name](https://linkedin.com)
+
+---
+
+## Mailing List
+
+Subscribe to our mailing list to receive updates:
+
+<!-- Sostituisci con il tuo Google Form per la mailing list -->
+[Subscribe](https://forms.google.com/your-form){.btn .btn-primary}

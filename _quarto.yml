@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Conference Name 2025"
+  description: "International Conference on [Topic] - City, Date"
+  
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: speakers.qmd
+        text: Speakers
+      - href: registration.qmd
+        text: Registration
+      - href: venue.qmd
+        text: Venue
+      - href: contact.qmd
+        text: Contact
+  
+  page-footer:
+    center: "© 2025 Conference Name | [Your Institution]"
+  
+  # Opzionale: aggiungi logo
+  # logo: images/logo.png
+
+format:
+  html:
+    theme: 
+      light: flatly
+    css: styles.css
+    toc: true
+    toc-depth: 2

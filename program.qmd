@@ -1,0 +1,77 @@
+---
+title: "Scientific Program"
+---
+
+## Program Overview
+
+The conference program includes keynote lectures, oral presentations, poster sessions, and networking events.
+
+::: {.callout-tip}
+## Detailed program
+The full program with abstracts will be available after May 15, 2025.
+:::
+
+## Tentative Schedule
+
+### Day 1 - June 15, 2025
+
+| Time | Event | Location |
+|------|-------|----------|
+| 08:30 - 09:00 | Registration & Welcome Coffee | Main Hall |
+| 09:00 - 09:30 | Opening Ceremony | Auditorium |
+| 09:30 - 10:30 | **Keynote 1**: *Title TBA* | Auditorium |
+| 10:30 - 11:00 | Coffee Break | Foyer |
+| 11:00 - 12:30 | Parallel Sessions 1A / 1B | Rooms A & B |
+| 12:30 - 14:00 | Lunch | Restaurant |
+| 14:00 - 15:30 | Parallel Sessions 2A / 2B | Rooms A & B |
+| 15:30 - 16:00 | Coffee Break | Foyer |
+| 16:00 - 17:30 | Poster Session 1 | Exhibition Hall |
+| 19:00 | Welcome Reception | TBA |
+
+### Day 2 - June 16, 2025
+
+| Time | Event | Location |
+|------|-------|----------|
+| 09:00 - 10:00 | **Keynote 2**: *Title TBA* | Auditorium |
+| 10:00 - 10:30 | Coffee Break | Foyer |
+| 10:30 - 12:00 | Parallel Sessions 3A / 3B | Rooms A & B |
+| 12:00 - 13:30 | Lunch | Restaurant |
+| 13:30 - 15:00 | Parallel Sessions 4A / 4B | Rooms A & B |
+| 15:00 - 15:30 | Coffee Break | Foyer |
+| 15:30 - 17:00 | Poster Session 2 | Exhibition Hall |
+| 20:00 | Conference Dinner | TBA |
+
+### Day 3 - June 17, 2025
+
+| Time | Event | Location |
+|------|-------|----------|
+| 09:00 - 10:00 | **Keynote 3**: *Title TBA* | Auditorium |
+| 10:00 - 10:30 | Coffee Break | Foyer |
+| 10:30 - 12:00 | Parallel Sessions 5A / 5B | Rooms A & B |
+| 12:00 - 12:30 | Closing Ceremony & Awards | Auditorium |
+| 12:30 | Farewell Lunch | Restaurant |
+
+## Session Topics
+
+### Track A: [Main Topic 1]
+- Subtopic 1.1
+- Subtopic 1.2
+- Subtopic 1.3
+
+### Track B: [Main Topic 2]
+- Subtopic 2.1
+- Subtopic 2.2
+- Subtopic 2.3
+
+## Submission Guidelines
+
+Abstracts should be submitted through [Google Forms / EasyChair / other system].
+
+**Format requirements:**
+
+- Maximum 300 words
+- Title, authors, affiliations
+- Keywords (3-5)
+- Indicate preference: oral / poster
+
+[Submit your abstract](#){.btn .btn-primary}

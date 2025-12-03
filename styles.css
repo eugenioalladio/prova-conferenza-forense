@@ -1,0 +1,62 @@
+/* Conference Website Custom Styles */
+
+/* Hero section styling */
+.quarto-title-block {
+  margin-bottom: 2rem;
+}
+
+/* Callout boxes */
+.callout {
+  margin: 1.5rem 0;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  margin: 1rem 0;
+}
+
+/* Button styling */
+.btn {
+  margin: 0.5rem 0.25rem;
+}
+
+.btn-lg {
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+}
+
+/* Speaker cards */
+.g-col-12.g-col-md-6 {
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+.nav-footer {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  background-color: #f8f9fa;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .btn-lg {
+    display: block;
+    width: 100%;
+  }
+}
+
+/* Custom colors - modify to match your conference branding */
+:root {
+  --conference-primary: #2c3e50;
+  --conference-secondary: #3498db;
+  --conference-accent: #e74c3c;
+}
+
+/* Optional: Custom header background */
+/*
+.navbar {
+  background-color: var(--conference-primary) !important;
+}
+*/

@@ -1,0 +1,69 @@
+---
+title: "Registration"
+---
+
+## Registration Fees
+
+| Category | Early Bird (by May 15) | Regular |
+|----------|------------------------|---------|
+| Regular participant | €300 | €400 |
+| Student (with proof) | €150 | €200 |
+| Accompanying person | €100 | €100 |
+
+::: {.callout-important}
+## What's included
+Registration fee includes: access to all sessions, conference materials, coffee breaks, lunches, welcome reception, and conference dinner.
+:::
+
+## How to Register
+
+### Step 1: Fill the registration form
+
+Click the button below to access the registration form:
+<!-- Sostituisci con il tuo link Google Forms -->
+[Registration Form](https://forms.google.com/your-form-link){.btn .btn-primary .btn-lg}
+
+### Step 2: Payment
+
+After submitting the form, you will receive an email with payment instructions.
+
+**Payment methods accepted:**
+
+- Bank transfer
+- Credit card (via PayPal)
+
+**Bank details:**
+
+```
+Bank: [Bank Name]
+Account holder: [Name]
+IBAN: [IBAN number]
+BIC/SWIFT: [Code]
+Reference: CONF2025 - [Your Surname]
+```
+
+### Step 3: Confirmation
+
+Once payment is received, you will receive a confirmation email with your registration number.
+
+---
+
+## Cancellation Policy
+
+- **Before May 1, 2025**: Full refund minus €50 administrative fee
+- **May 1-31, 2025**: 50% refund
+- **After June 1, 2025**: No refund
+
+---
+
+## Student Registration
+
+To qualify for student rates, please upload proof of enrollment (student ID or enrollment letter) in the registration form.
+
+---
+
+## Questions?
+
+For registration inquiries, please contact:
+
+📧 [registration@conference.org](mailto:registration@conference.org)
