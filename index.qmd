@@ -1,48 +1,132 @@
 ---
-title: "Conference Name 2025"
-subtitle: "International Conference on [Topic]"
+title: "MS Forensics 2026"
+subtitle: "Le indagini forensi e il contributo della spettrometria di massa"
+title-block-banner: "#1e3a5f"
+title-block-banner-color: "#ffffff"
 toc: false
 ---
 
-::: {.callout-note appearance="simple"}
-## Save the Date!
-**June 15-17, 2025** | City, Country
+::: {.save-the-date}
+## 📅 Save the Date
+
+**17-18 Marzo 2026** — Roma, Italia  
+**Sala Palatucci** — Polo Tuscolano  
+Via Tuscolana 1548, Roma  
+*Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
+Ministero dell'Interno - Dipartimento di Pubblica Sicurezza
 :::
 
-## Welcome
+## Benvenuti
 
-Welcome to the official website of **Conference Name 2025**, the premier international conference on [topic]. This year's edition will be held in [City], bringing together researchers, practitioners, and students from around the world.
+**MS Forensics 2026** è un workshop organizzato dalla [Società Chimica Italiana](https://www.soc.chim.it/) ([Divisioni di Spettrometria di Massa](https://www.spettrometriadimassa.it/), [Chimica Analitica](https://www.soc.chim.it/it/divisioni/analitica/home) e [Chimica Farmaceutica](https://www.soc.chim.it/it/divisioni/farmaceutica/home)) in collaborazione con il [Servizio Polizia Scientifica della Polizia di Stato](https://www.poliziadistato.it/articolo/2469667ac382cb785865005675).
 
-## Key Dates
-
-| Event | Date |
-|-------|------|
-| Abstract submission opens | January 15, 2025 |
-| Abstract submission deadline | March 31, 2025 |
-| Notification of acceptance | April 30, 2025 |
-| Early bird registration | May 15, 2025 |
-| Conference dates | June 15-17, 2025 |
-
-## Topics of Interest
-
-The conference covers, but is not limited to, the following topics:
-
-- Topic 1
-- Topic 2
-- Topic 3
-- Topic 4
-- Topic 5
-
-## Organizing Committee
-
-- **Conference Chair**: Prof. Name Surname, Institution
-- **Scientific Committee Chair**: Prof. Name Surname, Institution
-- **Local Organizing Committee**: Dr. Name Surname, Institution
-
-## Sponsors
-
-*Sponsor information coming soon*
+Il workshop si articolerà in due giornate con l'intento di coinvolgere tutti gli attori istituzionali operanti nei diversi settori della chimica forense e nel mondo della ricerca, creando nuove sinergie di intenti e rafforzando le connessioni tra le diverse realtà che già collaborano.
 
 ---
 
-For any inquiries, please contact us at [email@conference.org](mailto:email@conference.org)
+## 🎯 A chi è rivolto
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+**Enti istituzionali**
+
+- Servizio Polizia Scientifica
+- Ra.C.I.S. dell'Arma dei Carabinieri
+- Corpo Nazionale dei Vigili del Fuoco
+- Istituto Superiore di Sanità
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+**Mondo accademico**
+
+- Università e centri di ricerca
+- Laboratori di analisi forense
+- Professionisti del settore
+:::
+
+:::
+
+---
+
+## 🔬 Tematiche
+
+::: {.panel-tabset}
+
+### Spettrometria di massa
+Tecniche avanzate di spettrometria di massa applicate alle analisi forensi.
+
+### Sostanze d'abuso
+Monitoraggio di sostanze d'abuso e loro metaboliti, incluse le NPS (Nuove Sostanze Psicoattive) e i loro precursori.
+
+### Esplosivi & GSR
+Determinazione di esplosivi, sostanze infiammabili e residui dello sparo (GSR).
+
+### Analisi merceologiche
+Metodologie analitiche per caratterizzazioni e comparazioni merceologiche: inchiostri, vernici, fibre e sostanze incognite.
+
+### AI & chemiometria
+Strumenti di Intelligenza Artificiale e approcci chemiometrici per l'analisi di dati, inclusi algoritmi di Machine Learning e Deep Learning.
+
+:::
+
+---
+
+## 📆 Date importanti
+
+| Evento | Data |
+|:-------|-----:|
+| Apertura iscrizioni | *Da definire* |
+| Deadline invio abstract | *Da definire* |
+| Notifica accettazione | *Da definire* |
+| **Workshop** | **17-18 Marzo 2026** |
+
+---
+
+## 📍 Sede
+
+::: {.callout-note appearance="minimal" icon=false}
+**Sala Palatucci** — Polo Tuscolano  
+Via Tuscolana 1548, Roma  
+*Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*  
+Ministero dell'Interno - Dipartimento di Pubblica Sicurezza
+
+[Maggiori informazioni sulla sede →](venue.qmd){.btn .btn-primary}
+:::
+
+---
+
+## 🤝 Organizzatori
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+**Società Chimica Italiana (SCI)**
+
+- [Divisione di Spettrometria di Massa](https://www.spettrometriadimassa.it/)
+- [Divisione di Chimica Analitica](https://www.soc.chim.it/it/divisioni/analitica/home)
+- [Divisione di Chimica Farmaceutica](https://www.soc.chim.it/it/divisioni/farmaceutica/home)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+**In collaborazione con**
+
+- [Servizio Polizia Scientifica della Polizia di Stato](https://www.poliziadistato.it/articolo/2469667ac382cb785865005675)
+:::
+
+:::
+
+---
+
+## 💼 Sponsor
+
+*Informazioni in arrivo*
+
+---
+
+::: {.text-center}
+📧 Per informazioni: [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
+
+[Iscriviti ora](registration.qmd){.btn .btn-primary .btn-lg} [Programma](program.qmd){.btn .btn-outline-primary .btn-lg}
+:::

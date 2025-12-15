@@ -1,77 +1,128 @@
 ---
-title: "Scientific Program"
+title: "Programma Scientifico"
+title-block-banner: "#1e3a5f"
+title-block-banner-color: "#ffffff"
+toc: true
 ---
 
-## Program Overview
+## 📋 Panoramica
 
-The conference program includes keynote lectures, oral presentations, poster sessions, and networking events.
+Il workshop si articola in due giornate di presentazioni orali, sessioni poster e momenti di networking.
 
 ::: {.callout-tip}
-## Detailed program
-The full program with abstracts will be available after May 15, 2025.
+## Programma dettagliato
+Il programma completo con gli abstract sarà disponibile a Febbraio 2026.
 :::
 
-## Tentative Schedule
+---
 
-### Day 1 - June 15, 2025
+## 📅 Programma Provvisorio
 
-| Time | Event | Location |
-|------|-------|----------|
-| 08:30 - 09:00 | Registration & Welcome Coffee | Main Hall |
-| 09:00 - 09:30 | Opening Ceremony | Auditorium |
-| 09:30 - 10:30 | **Keynote 1**: *Title TBA* | Auditorium |
+::: {.panel-tabset}
+
+### Giorno 1 — 17 Marzo 2026
+
+| Orario | Evento | Sede |
+|:-------|:-------|:-----|
+| 08:30 - 09:00 | Registrazione & Welcome Coffee | Ingresso |
+| 09:00 - 09:30 | Cerimonia di apertura | Sala Palatucci |
+| 09:30 - 10:30 | **Keynote 1**: *Titolo TBA* | Sala Palatucci |
 | 10:30 - 11:00 | Coffee Break | Foyer |
-| 11:00 - 12:30 | Parallel Sessions 1A / 1B | Rooms A & B |
-| 12:30 - 14:00 | Lunch | Restaurant |
-| 14:00 - 15:30 | Parallel Sessions 2A / 2B | Rooms A & B |
+| 11:00 - 12:30 | Sessione orale 1 | Sala Palatucci |
+| 12:30 - 14:00 | Pranzo | *TBA* |
+| 14:00 - 15:30 | Sessione orale 2 | Sala Palatucci |
 | 15:30 - 16:00 | Coffee Break | Foyer |
-| 16:00 - 17:30 | Poster Session 1 | Exhibition Hall |
-| 19:00 | Welcome Reception | TBA |
+| 16:00 - 17:30 | Sessione Poster | Foyer |
+| 20:00 | Cena sociale | *TBA* |
 
-### Day 2 - June 16, 2025
+### Giorno 2 — 18 Marzo 2026
 
-| Time | Event | Location |
-|------|-------|----------|
-| 09:00 - 10:00 | **Keynote 2**: *Title TBA* | Auditorium |
+| Orario | Evento | Sede |
+|:-------|:-------|:-----|
+| 09:00 - 10:00 | **Keynote 2**: *Titolo TBA* | Sala Palatucci |
 | 10:00 - 10:30 | Coffee Break | Foyer |
-| 10:30 - 12:00 | Parallel Sessions 3A / 3B | Rooms A & B |
-| 12:00 - 13:30 | Lunch | Restaurant |
-| 13:30 - 15:00 | Parallel Sessions 4A / 4B | Rooms A & B |
+| 10:30 - 12:00 | Sessione orale 3 | Sala Palatucci |
+| 12:00 - 13:30 | Pranzo | *TBA* |
+| 13:30 - 15:00 | Sessione orale 4 | Sala Palatucci |
 | 15:00 - 15:30 | Coffee Break | Foyer |
-| 15:30 - 17:00 | Poster Session 2 | Exhibition Hall |
-| 20:00 | Conference Dinner | TBA |
+| 15:30 - 16:30 | **Keynote 3**: *Titolo TBA* | Sala Palatucci |
+| 16:30 - 17:00 | Cerimonia di chiusura | Sala Palatucci |
 
-### Day 3 - June 17, 2025
+:::
 
-| Time | Event | Location |
-|------|-------|----------|
-| 09:00 - 10:00 | **Keynote 3**: *Title TBA* | Auditorium |
-| 10:00 - 10:30 | Coffee Break | Foyer |
-| 10:30 - 12:00 | Parallel Sessions 5A / 5B | Rooms A & B |
-| 12:00 - 12:30 | Closing Ceremony & Awards | Auditorium |
-| 12:30 | Farewell Lunch | Restaurant |
+---
 
-## Session Topics
+## 🔬 Sessioni Tematiche
 
-### Track A: [Main Topic 1]
-- Subtopic 1.1
-- Subtopic 1.2
-- Subtopic 1.3
+::: {.grid}
 
-### Track B: [Main Topic 2]
-- Subtopic 2.1
-- Subtopic 2.2
-- Subtopic 2.3
 
-## Submission Guidelines
+::: {.g-col-12 .g-col-md-6}
+### Spettrometria di Massa
+- Tecniche avanzate MS/MS
+- High-resolution MS
+- Imaging MS
 
-Abstracts should be submitted through [Google Forms / EasyChair / other system].
+### Sostanze d'Abuso & NPS
+- Metaboliti e precursori
+- Nuove Sostanze Psicoattive
+- Screening e conferma
 
-**Format requirements:**
+:::
 
-- Maximum 300 words
-- Title, authors, affiliations
-- Keywords (3-5)
-- Indicate preference: oral / poster
+::: {.g-col-12 .g-col-md-6}
 
-[Submit your abstract](#){.btn .btn-primary}
+
+### Esplosivi, GSR, analisi merceologiche
+- Residui dello sparo
+- Sostanze infiammabili
+- Esplosivi e precursori
+- Inchiostri, vernici, fibre, vetri
+
+### AI & Chemiometria
+- Machine Learning e analisi multivariata di dati forensi
+
+:::
+
+
+
+:::
+
+---
+
+## 📝 Invio Abstract
+
+Gli abstract dovranno essere inviati tramite il [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeiZtxUxUJ89U77SRXdY7TNWPJTO0LK7chluWqkD9u_W6sHIw/viewform?usp=dialog).
+
+### Requisiti
+
+| | |
+|:--|:--|
+| **Lunghezza** | Massimo 300 parole |
+| **Contenuto** | Titolo, autori, affiliazioni, testo, keywords (3-5) |
+| **Tipologia** | Indicare preferenza: comunicazione orale / poster |
+| **Lingua** | Italiano o Inglese |
+
+::: {.text-center}
+[Invia il tuo abstract](#){.btn .btn-primary .btn-lg}
+:::
+
+::: {.text-center}
+[📄 Scarica il template dell'abstract](MS_Forensics_2026_abstract_template.docx){.btn .btn-primary .btn-lg download="MS_Forensics_2026_abstract_template.docx"}
+:::
+
+### Scadenze
+
+| Evento | Data |
+|:-------|-----:|
+| Apertura invio abstract | *Da definire* |
+| Deadline invio abstract | *Da definire* |
+| Notifica accettazione | *Da definire* |
+
+
+
+---
+
+## 🏆 Premi
+
+*Informazioni sui premi per giovani ricercatori in arrivo.*

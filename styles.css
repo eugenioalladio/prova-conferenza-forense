@@ -1,62 +1,315 @@
-/* Conference Website Custom Styles */
+/* ============================================
+   MS FORENSICS 2026 - Custom Styles
+   ============================================ */
 
-/* Hero section styling */
+/* ---------- Color Variables ---------- */
+:root {
+  --primary-color: #1e3a5f;
+  --secondary-color: #3498db;
+  --accent-color: #e74c3c;
+  --light-bg: #f8f9fa;
+  --dark-bg: #1e3a5f;
+  --text-color: #333;
+  --text-muted: #6c757d;
+}
+
+/* ---------- Hero Banner (UNIFORM COLOR) ---------- */
+#quarto-header {
+  background: var(--primary-color) !important;
+}
+
+.quarto-title-banner {
+  background: var(--primary-color) !important;
+  background-image: none !important;
+}
+
 .quarto-title-block {
-  margin-bottom: 2rem;
+  background: var(--primary-color);
+  color: white;
+  padding: 3rem 2rem;
+  margin-bottom: 0;
 }
 
-/* Callout boxes */
-.callout {
-  margin: 1.5rem 0;
+.quarto-title-block .title {
+  font-size: 2.5rem;
+  font-weight: 700;
 }
 
-/* Tables */
-table {
-  width: 100%;
-  margin: 1rem 0;
+.quarto-title-block .subtitle {
+  font-size: 1.3rem;
+  opacity: 0.9;
 }
 
-/* Button styling */
-.btn {
-  margin: 0.5rem 0.25rem;
+/* ---------- Logo in Title Banner ---------- */
+.quarto-title-banner {
+  position: relative;
 }
 
-.btn-lg {
-  padding: 0.75rem 2rem;
-  font-size: 1.1rem;
+.quarto-title-banner::before {
+  content: "";
+  position: absolute;
+  top: 70%;
+  left: 140px;
+  transform: translateY(-50%);
+  width: 200px;
+  height: 200px;
+  background-image: url("images/logo_transparent2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
-/* Speaker cards */
-.g-col-12.g-col-md-6 {
-  padding: 1rem;
+/* ---------- Navbar ---------- */
+.navbar {
+  background: var(--primary-color) !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.nav-link {
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+/* ---------- Save the Date Box ---------- */
+.save-the-date {
+  background: linear-gradient(135deg, #1e3a5f 0%, #2c5282 100%);
+  color: white;
+  padding: 2.5rem;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 1.3rem;
+  margin: 2rem 0;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.save-the-date h2 {
+  color: white;
+  font-size: 2rem;
   margin-bottom: 1rem;
 }
 
-/* Footer */
-.nav-footer {
-  margin-top: 2rem;
-  padding: 1rem 0;
-  background-color: #f8f9fa;
+.save-the-date strong {
+  font-size: 1.4rem;
 }
 
-/* Responsive adjustments */
+/* ---------- Callout Boxes ---------- */
+.callout {
+  border-radius: 10px;
+  margin: 1.5rem 0;
+  border-left-width: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.callout-note {
+  border-left-color: var(--secondary-color);
+}
+
+.callout-tip {
+  border-left-color: #27ae60;
+}
+
+.callout-important {
+  border-left-color: var(--accent-color);
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  margin: 0.5rem 0.25rem;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.btn-outline-primary {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.btn-lg {
+  padding: 0.85rem 2.5rem;
+  font-size: 1.1rem;
+}
+
+/* ---------- Grid Cards ---------- */
+.g-col-12.g-col-md-6,
+.g-col-12.g-col-md-4 {
+  padding: 1.5rem;
+  background: var(--light-bg);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  border: 1px solid #e9ecef;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.g-col-12.g-col-md-6:hover,
+.g-col-12.g-col-md-4:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+/* ---------- Panel Tabset ---------- */
+.panel-tabset .nav-tabs {
+  border-bottom: 2px solid #dee2e6;
+}
+
+.panel-tabset .nav-link {
+  font-weight: 500;
+  color: var(--text-muted);
+  border: none;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: -2px;
+  transition: all 0.3s ease;
+}
+
+.panel-tabset .nav-link:hover {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--secondary-color);
+}
+
+.panel-tabset .nav-link.active {
+  color: var(--primary-color);
+  background: transparent;
+  border-bottom: 3px solid var(--primary-color);
+}
+
+.panel-tabset .tab-content {
+  padding: 1.5rem 0;
+}
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+th {
+  padding: 0.85rem 1rem;
+  font-weight: 600;
+}
+
+td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+tbody tr:hover {
+  background-color: var(--light-bg);
+}
+
+/* ---------- Typography ---------- */
+h1, h2, h3, h4 {
+  color: var(--primary-color);
+}
+
+h2 {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-weight: 500;
+  margin-top: 1.5rem;
+}
+
+a {
+  color: var(--secondary-color);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--primary-color);
+}
+
+/* ---------- Utility Classes ---------- */
+.text-center {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+hr {
+  margin: 2.5rem 0;
+  border: none;
+  border-top: 1px solid #dee2e6;
+}
+
+/* ---------- Footer ---------- */
+.nav-footer {
+  background-color: var(--dark-bg);
+  color: white;
+  padding: 1.5rem 0;
+  margin-top: 3rem;
+}
+
+.nav-footer a {
+  color: rgba(255,255,255,0.8);
+}
+
+.nav-footer a:hover {
+  color: white;
+}
+
+/* ---------- Images ---------- */
+img {
+  border-radius: 8px;
+}
+
+/* ---------- Responsive ---------- */
 @media (max-width: 768px) {
+  .quarto-title-block .title {
+    font-size: 1.8rem;
+  }
+  
   .btn-lg {
     display: block;
     width: 100%;
+    margin: 0.5rem 0;
+  }
+  
+  .g-col-12.g-col-md-6,
+  .g-col-12.g-col-md-4 {
+    margin-bottom: 0.75rem;
   }
 }
 
-/* Custom colors - modify to match your conference branding */
-:root {
-  --conference-primary: #2c3e50;
-  --conference-secondary: #3498db;
-  --conference-accent: #e74c3c;
+/* ---------- Animations ---------- */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
-/* Optional: Custom header background */
-/*
-.navbar {
-  background-color: var(--conference-primary) !important;
+.callout, .g-col-12 {
+  animation: fadeIn 0.5s ease;
 }
-*/
+
+/* ---------- Google Maps iframe ---------- */
+iframe {
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}

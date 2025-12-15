@@ -1,54 +1,66 @@
 ---
-title: "Contact Us"
-editor: 
-  markdown: 
-    wrap: 72
+title: "Contatti"
+title-block-banner: "#1e3a5f"
+title-block-banner-color: "#ffffff"
+toc: true
 ---
 
-## General Inquiries
+## 📧 Informazioni Generali
 
-For general questions about the conference:
+Per domande generali sul workshop:
 
-📧 **Email**: [info\@conference.org](mailto:info@conference.org)
+::: {.callout-note appearance="minimal" icon="false"}
+📧 **Email**: [manuel.sergi\@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
 
-We aim to respond within 2-3 business days.
-
-------------------------------------------------------------------------
-
-## Specific Contacts
-
-| Topic | Contact |
-|--------------------------------|----------------------------------------|
-| Scientific program & abstracts | [scientific\@conference.org](mailto:scientific@conference.org) |
-| Registration & payments | [registration\@conference.org](mailto:registration@conference.org) |
-| Sponsorship opportunities | [sponsors\@conference.org](mailto:sponsors@conference.org) |
-| Visa invitation letters | [visa\@conference.org](mailto:visa@conference.org) |
+Rispondiamo entro 2-3 giorni lavorativi.
+:::
 
 ------------------------------------------------------------------------
 
-## Organizing Committee
+## 👥 Comitato Organizzatore
 
-**Conference Chair** Prof. Name Surname Institution 📧
-[email\@institution.org](mailto:email@institution.org)
+::::: grid
+::: {.g-col-12 .g-col-md-6}
+### Responsabile Scientifico
 
-**Local Organizing Committee** Dr. Name Surname Institution 📧
-[email\@institution.org](mailto:email@institution.org)
+**Prof. Manuel Sergi**\
+Sapienza Università di Roma\
+📧 [manuel.sergi\@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Comitato Locale
+
+**Dr. Nome Cognome**\
+Servizio Polizia Scientifica\
+📧 [email\@poliziadistato.it](mailto:email@poliziadistato.it)
+:::
+:::::
 
 ------------------------------------------------------------------------
 
-## Follow Us
+## 🏛️ Enti Organizzatori
 
-Stay updated on conference news:
+::: {.grid}
 
--   Twitter/X: [\@ConferenceName](https://twitter.com)
--   LinkedIn: [Conference Name](https://linkedin.com)
+::: {.g-col-12 .g-col-md-6}
+**Società Chimica Italiana (SCI)**
+
+- [Divisione di Spettrometria di Massa](https://www.spettrometriadimassa.it/)
+- [Divisione di Chimica Analitica](https://www.soc.chim.it/it/divisioni/analitica/home)
+- [Divisione di Chimica Farmaceutica](https://www.soc.chim.it/it/divisioni/farmaceutica/home)
+
+🌐 [www.soc.chim.it](https://www.soc.chim.it/)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+**Polizia di Stato**
+
+[Servizio Polizia Scientifica - Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica](https://www.poliziadistato.it/articolo/40766685ed4beab2126065878) 
+
+🌐 [www.poliziadistato.it](https://www.poliziadistato.it/)
+:::
+
+:::
 
 ------------------------------------------------------------------------
-
-## Mailing List
-
-Subscribe to our mailing list to receive updates:
-
-<!-- Sostituisci con il tuo Google Form per la mailing list -->
-
-[Subscribe](https://forms.google.com/your-form){.btn .btn-primary}

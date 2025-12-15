@@ -1,107 +1,69 @@
 ---
-title: "Venue & Accommodation"
+title: "Sede"
+title-block-banner: "#1e3a5f"
+title-block-banner-color: "#ffffff"
+toc: true
 ---
 
-## Conference Venue
+## 📍 Sede del Workshop
 
-The conference will be held at:
+Il workshop si terrà presso:
 
-**[Venue Name]**
-Address Line 1
-City, Postal Code
-Country
+::: {.callout-note appearance="minimal" icon="false"}
+**Sala Palatucci** — Polo Tuscolano\
+Via Tuscolana 1548, 00173 Roma\
+*Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica*\
+Ministero dell'Interno - Dipartimento di Pubblica Sicurezza
+:::
 
-<!-- Incorpora Google Maps - sostituisci con le tue coordinate -->
 ```{=html}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2817.123456789!2d7.6868!3d45.0703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDXCsDA0JzEzLjEiTiA3wrA0MScxMi41IkU!5e0!3m2!1sen!2sit!4v1234567890" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2971.971485050238!2d12.569826776055516!3d41.85044056714546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132589cd6016358d%3A0x86fd8a2015653dac!2sVia%20Tuscolana%2C%201548%2C%2000173%20Roma%20RM!5e0!3m2!1sit!2sit!4v1765622606445!5m2!1sit!2sit" width="100%" height="350" style="border:0; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ```
 
-## How to Get There
+------------------------------------------------------------------------
 
-### By Air ✈️
+## 🚀 Come arrivare
 
-The nearest airport is **[Airport Name]** (XXX), located XX km from the venue.
+::: panel-tabset
+### ✈️ Aereo
 
-**From the airport to the city center:**
+**Aeroporto di Roma Fiumicino (FCO)** — \~35 km dalla sede
 
-- **Train**: [details]
-- **Bus**: [details]
-- **Taxi**: approximately €XX, 30-40 minutes
+-   **Treno Leonardo Express** → Roma Termini, poi Metro A direzione Anagnina, fermata *Cinecittà* + bus 557
+-   **Taxi**: circa 40-50 minuti
 
-### By Train 🚂
+**Aeroporto di Roma Ciampino (CIA)** — \~10 km dalla sede
 
-The main train station is **[Station Name]**, located XX km from the venue.
+-   **Bus 520**
+-   **Taxi**: circa 20 minuti
 
-From the station, you can reach the venue by:
+### 🚂 Treno
 
-- Metro Line X (direction Y, stop Z)
-- Bus number XX
-- 15-minute walk
+**Roma Termini** — principale stazione ferroviaria
 
-### By Car 🚗
+Dalla stazione Termini:
 
-From highway [A1/E45/etc.], take exit [Name] and follow directions to [area].
+-   **Metro Linea A** direzione Anagnina → fermata *Cinecittà*
+-   Da Cinecittà: **bus 557** direzione Tuscolana/Romanina
+-   Durata: circa 30-40 minuti
 
-Parking is available at the venue (€XX/day) or at nearby parking facilities.
+**Roma Tiburtina** — stazione alta velocità
 
----
+-   Metro B → Termini, poi Metro A direzione Anagnina
 
-## Accommodation
+### 🚗 Auto
 
-We have negotiated special rates with the following hotels. Please mention "Conference Name 2025" when booking.
+Da **Nord (A1 Firenze-Roma)**:
 
-### Hotel A ⭐⭐⭐⭐ (Recommended)
+-   Uscita Roma Est/GRA → Via Tuscolana direzione Roma
 
-**[Hotel Name]** - 5 min walk from venue
+Da **Sud (A1 Napoli-Roma)**:
 
-- Single room: €XX/night
-- Double room: €XX/night
-- Booking code: CONF2025
+-   Uscita Roma Sud/GRA → Via Tuscolana direzione fuori Roma
 
-[Book now](https://hotel-website.com){.btn .btn-outline-primary .btn-sm}
+Da **GRA (Grande Raccordo Anulare)**:
 
-### Hotel B ⭐⭐⭐
+-   Uscita 21 Via Tuscolana
+:::
 
-**[Hotel Name]** - 10 min by public transport
-
-- Single room: €XX/night
-- Double room: €XX/night
-- Booking code: CONF2025
-
-[Book now](https://hotel-website.com){.btn .btn-outline-primary .btn-sm}
-
-### Budget Option
-
-**[Hostel/B&B Name]** - 15 min by public transport
-
-- Bed in shared room: €XX/night
-- Private room: €XX/night
-
-[Book now](https://booking-website.com){.btn .btn-outline-primary .btn-sm}
-
----
-
-## About the City
-
-[City Name] is [brief description of the city, attractions, etc.]
-
-### Useful Information
-
-- **Language**: [Language] (English widely spoken)
-- **Currency**: Euro (€)
-- **Time zone**: CET (UTC+1) / CEST (UTC+2) in summer
-- **Weather in June**: Average 20-28°C, occasional rain possible
-
-### Things to Do
-
-- [Attraction 1]
-- [Attraction 2]
-- [Attraction 3]
-
----
-
-## Visa Information
-
-Participants from outside the Schengen Area may require a visa. Please check requirements well in advance.
-
-If you need an invitation letter for visa purposes, please contact us at [email@conference.org](mailto:email@conference.org) after completing your registration.
+------------------------------------------------------------------------

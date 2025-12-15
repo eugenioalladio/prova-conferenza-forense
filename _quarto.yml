@@ -1,37 +1,42 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.docx"
 
 website:
-  title: "Conference Name 2025"
-  description: "International Conference on [Topic] - City, Date"
+  title: "MS Forensics 2026"
+  description: "Le indagini forensi e il contributo della spettrometria di massa - Roma, 17-18 Marzo 2026"
   
   navbar:
-    background: primary
+    background: "#1e3a5f"
+    logo: images/logo_transparent2.png
     left:
       - href: index.qmd
         text: Home
       - href: program.qmd
-        text: Program
+        text: Programma
       - href: speakers.qmd
-        text: Speakers
+        text: Relatori
       - href: registration.qmd
-        text: Registration
+        text: Iscrizione
       - href: venue.qmd
-        text: Venue
+        text: Sede
       - href: contact.qmd
-        text: Contact
+        text: Contatti
   
   page-footer:
-    center: "© 2025 Conference Name | [Your Institution]"
-  
-  # Opzionale: aggiungi logo
-  # logo: images/logo.png
+    background: "#1e3a5f"
+    foreground: light
+    center: |
+      <img src="images/logo_transparent2.png" alt="MS Forensics Logo" style="height: 50px; margin-bottom: 10px;"><br>
+      © MS Forensics 2026 | [Società Chimica Italiana](https://www.soc.chim.it/) - [Divisioni di Spettrometria di Massa](https://www.spettrometriadimassa.it/), [Chimica Analitica](https://www.soc.chim.it/it/divisioni/analitica/home) e [Chimica Farmaceutica](https://www.soc.chim.it/it/divisioni/farmaceutica/home) | 
+      In collaborazione con il [Servizio Polizia Scientifica della Polizia di Stato](https://www.poliziadistato.it/articolo/2469667ac382cb785865005675)
 
 format:
   html:
-    theme: 
-      light: flatly
+    theme: flatly
     css: styles.css
     toc: true
     toc-depth: 2
+    lang: it
