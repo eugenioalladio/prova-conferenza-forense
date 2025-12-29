@@ -10,7 +10,7 @@ toc: true
 Per domande generali sul workshop:
 
 ::: {.callout-note appearance="minimal" icon="false"}
-📧 **Email**: [manuel.sergi\@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
+📧 **Email**: [info.msforensics2026\@gmail.com](mailto:info.msforensics2026@gmail.com)
 
 Rispondiamo entro 2-3 giorni lavorativi.
 :::

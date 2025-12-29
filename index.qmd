@@ -155,7 +155,7 @@ Ministero dell'Interno - Dipartimento della Pubblica Sicurezza
 ---
 
 ::: {.text-center}
-📧 Per informazioni: [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
+📧 Per informazioni: [info.msforensics2026\@gmail.com](mailto:info.msforensics2026@gmail.com)
 
 [Iscriviti ora](registration.qmd){.btn .btn-primary .btn-lg} [Programma](program.qmd){.btn .btn-outline-primary .btn-lg}
 :::
