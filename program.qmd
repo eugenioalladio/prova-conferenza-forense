@@ -84,7 +84,8 @@ Gli abstract dovranno essere inviati tramite il [modulo online](https://docs.goo
 | **Lunghezza** | Massimo 300 parole |
 | **Contenuto** | Titolo, autori, affiliazioni, testo, keywords (3-5) |
 | **Tipologia** | Indicare preferenza: comunicazione orale / poster |
-| **Lingua** | Italiano o Inglese |
+| **Lingua abstract** | Inglese |
+| **Lingua comunicazione oral/poster** | Italiano |
 
 ::: {.text-center}
 [📄 Scarica il template dell'abstract](MS_Forensics_2026_abstract_template.docx){.btn .btn-primary .btn-lg download="MS_Forensics_2026_abstract_template.docx"}
