@@ -39,14 +39,14 @@
     "href": "registration.html#come-iscriversi",
     "title": "Iscrizione",
     "section": "📝 Come iscriversi",
-    "text": "📝 Come iscriversi\n\n1. Compila il modulo2. Pagamento3. Conferma\n\n\nClicca il pulsante per accedere al modulo di iscrizione:\n\nModulo di Iscrizione\n\n\n\nDopo aver inviato il modulo, riceverai un’email con le istruzioni per il pagamento.\nMetodi di pagamento accettati:\n\nBonifico bancario\n\nCoordinate bancarie:\nBanca: [Nome Banca]\nIntestatario: [Nome]\nIBAN: [Numero IBAN]\nBIC/SWIFT: [Codice]\nCausale: MSFOR2026 - [Cognome]\n\n\nUna volta ricevuto il pagamento, riceverai un’email di conferma con il tuo numero di registrazione."
+    "text": "📝 Come iscriversi\n\n1. Compila il modulo2. Pagamento3. Conferma\n\n\nClicca il pulsante per accedere al modulo di iscrizione:\n\nModulo di Iscrizione\n\n\n\nIl pagamento deve essere effettuato esclusivamente tramite bonifico bancario intestato alla Società Chimica Italiana.\n\n\n\n\n\n\nCoordinate bancarie\n\n\n\nBanca\nIntesa Sanpaolo\n\n\nBeneficiario\nSocietà Chimica Italiana\n\n\nIndirizzo\nViale Liegi 48c, 00198 Roma (Italy)\n\n\nIBAN\nIT61F0306909606100000131814\n\n\nSwift/BIC\nBCITITMMXXX\n\n\nCausale\nCAF2025 Nome Cognome\n\n\n\n\n\n\n\n\n\n\n\n\nAvviso⚠️ Importante\n\n\n\nNella causale del bonifico, specificare nome e cognome del partecipante.\n\n\n\n\nUna volta effettuata l’iscrizione, si prega di salvare il form compilato."
   },
   {
-    "objectID": "registration.html#scadenze",
-    "href": "registration.html#scadenze",
+    "objectID": "registration.html#date-importanti",
+    "href": "registration.html#date-importanti",
     "title": "Iscrizione",
-    "section": "📅 Scadenze",
-    "text": "📅 Scadenze\n\n\n\nEvento\nData\n\n\n\n\nApertura iscrizioni\n7 Gennaio 2026\n\n\nDeadline invio abstract\n20 Febbraio 2026\n\n\nNotifica accettazione\n2 Marzo 2026\n\n\nWorkshop\n17-18 Marzo 2026"
+    "section": "📆 Date importanti",
+    "text": "📆 Date importanti\n\n\n\n\n\n\nImportante🗓️ Save the dates!\n\n\n\n\n\n\n📂 Apertura iscrizioni\n7 Gennaio 2026\n\n\n📝 Deadline invio abstract\n20 Febbraio 2026\n\n\n✅ Notifica accettazione\n2 Marzo 2026\n\n\n🎯 Workshop\n17-18 Marzo 2026"
   },
   {
     "objectID": "registration.html#iscrizione-studenti",
@@ -88,7 +88,14 @@
     "href": "index.html#benvenuti",
     "title": "MS Forensics 2026",
     "section": "Benvenuti",
-    "text": "Benvenuti\nMS Forensics 2026 è un workshop organizzato dalla Società Chimica Italiana (Divisioni di Spettrometria di Massa, Chimica Analitica e Chimica Farmaceutica) in collaborazione con il Servizio Polizia Scientifica della Polizia di Stato.\nIl workshop si articolerà in due giornate con l’intento di coinvolgere tutti gli attori istituzionali operanti nei diversi settori della chimica forense e nel mondo della ricerca, creando nuove sinergie di intenti e rafforzando le connessioni tra le diverse realtà che già collaborano."
+    "text": "Benvenuti\nMS Forensics 2026 è un workshop organizzato dalla Società Chimica Italiana (Divisioni di Chimica Analitica, Chimica Farmaceutica e Spettrometria di Massa) in collaborazione con il Servizio Polizia Scientifica della Polizia di Stato.\nIl workshop si articolerà in due giornate con l’intento di coinvolgere tutti gli attori istituzionali operanti nei diversi settori della chimica forense e nel mondo della ricerca, creando nuove sinergie di intenti e rafforzando le connessioni tra le diverse realtà che già collaborano."
+  },
+  {
+    "objectID": "index.html#date-importanti",
+    "href": "index.html#date-importanti",
+    "title": "MS Forensics 2026",
+    "section": "📆 Date importanti",
+    "text": "📆 Date importanti\n\n\n\n\n\n\n\n\n📂 Apertura iscrizioni\n\n7 Gennaio 2026\n\n\n\n\n\n\n\n\n\n\n\n\n📝 Deadline abstract\n\n20 Febbraio 2026\n\n\n\n\n\n\n\n\n\n\n\n\n✅ Notifica accettazione\n\n2 Marzo 2026\n\n\n\n\n\n\n\n\n\n\n\n\n🎯 Workshop\n\n17-18 Marzo 2026"
   },
   {
     "objectID": "index.html#a-chi-è-rivolto",
@@ -105,13 +112,6 @@
     "text": "🔬 Tematiche\n\nSpettrometria di massaSostanze d’abusoEsplosivi & GSRAnalisi merceologicheAI & chemiometria\n\n\nTecniche avanzate di spettrometria di massa applicate alle analisi forensi.\n\n\nMonitoraggio di sostanze d’abuso e loro metaboliti, incluse le NPS e i loro precursori.\n\n\nDeterminazione di esplosivi, sostanze infiammabili e residui dello sparo.\n\n\nMetodologie analitiche per caratterizzazioni e comparazioni merceologiche (inchiostri, vernici, fibre e sostanze incognite).\n\n\nStrumenti di Intelligenza Artificiale (AI) e approcci chemiometrici per l’analisi di dati, inclusi algoritmi di Machine Learning e Deep Learning"
   },
   {
-    "objectID": "index.html#date-importanti",
-    "href": "index.html#date-importanti",
-    "title": "MS Forensics 2026",
-    "section": "📆 Date importanti",
-    "text": "📆 Date importanti\n\n\n\nEvento\nData\n\n\n\n\nApertura iscrizioni\n7 gennaio 2026\n\n\nDeadline invio abstract\n20 febbraio 2026\n\n\nNotifica accettazione del contributo\n2 marzo 2026"
-  },
-  {
     "objectID": "index.html#sede",
     "href": "index.html#sede",
     "title": "MS Forensics 2026",
@@ -123,14 +123,14 @@
     "href": "index.html#comitati",
     "title": "MS Forensics 2026",
     "section": "👥 Comitati",
-    "text": "👥 Comitati\n\nComitato ScientificoComitato Organizzatore\n\n\n\n\n\nNome\nEmail\n\n\n\n\nGiulia Napoli\ngiulia.napoli@poliziadistato.it\n\n\nSabino Napoletano\nsabino.napoletano@poliziadistato.it\n\n\nGiuliana Bianco\ngiuliana.bianco@unibas.it\n\n\nEmanuela Gregori\nemanuela.gregori@iss.it\n\n\nManuel Sergi\nmanuel.sergi@uniroma1.it\n\n\nFederica Bianchi\nfederica.bianchi@unipr.it\n\n\nMaria Laura Bolognesi\nmarialaura.bolognesi@unibo.it\n\n\nLaura Mercolini\nlaura.mercolini@unibo.it\n\n\n\n\n\n\n\n\nNome\nEmail\n\n\n\n\nMaria Maglieri\nmaria.maglieri@poliziadistato.it\n\n\nMartina Pisano\nmartina1.pisano@poliziadistato.it\n\n\nMauro Di Pasquale\nmauro.dipasquale@iss.it\n\n\nEugenio Alladio\neugenio.alladio@unito.it\n\n\nIlenia Bracaglia\nilenia.bracaglia@uniroma1.it"
+    "text": "👥 Comitati\n\nComitato ScientificoComitato Organizzatore\n\n\n\nFederica Bianchi - Università di Parma\nGiuliana Bianco - Università della Basilicata\nMaria Laura Bolognesi - Università di Bologna\nEmanuela Gregori - Istituto Superiore di Sanità\nLaura Mercolini - Università di Bologna\nGiulia Napoli - Polizia Scientifica\nSabino Napoletano - Polizia Scientifica\nManuel Sergi - Sapienza Università di Roma\n\n\n\n\nEugenio Alladio - Università di Torino\nIlenia Bracaglia - Sapienza Università di Roma\nMauro Di Pasquale - Istituto Superiore di Sanità\nMaria Maglieri - Polizia Scientifica\nMartina Pisano - Polizia Scientifica"
   },
   {
     "objectID": "index.html#enti-organizzatori",
     "href": "index.html#enti-organizzatori",
     "title": "MS Forensics 2026",
     "section": "🏛️ Enti Organizzatori",
-    "text": "🏛️ Enti Organizzatori\n\n\nSocietà Chimica Italiana (SCI)\n\nDivisione di Spettrometria di Massa\nDivisione di Chimica Analitica\nDivisione di Chimica Farmaceutica\n\n\n\nIn collaborazione con\n\nServizio Polizia Scientifica della Polizia di Stato"
+    "text": "🏛️ Enti Organizzatori\n\n\nSocietà Chimica Italiana (SCI)\n\nDivisione di Chimica Analitica\nDivisione di Chimica Farmaceutica\nDivisione di Spettrometria di Massa\n\n\n\nIn collaborazione con\n\nServizio Polizia Scientifica della Polizia di Stato"
   },
   {
     "objectID": "index.html#sponsor",
@@ -158,7 +158,7 @@
     "href": "contact.html#comitato-organizzatore",
     "title": "Contatti",
     "section": "👥 Comitato Organizzatore",
-    "text": "👥 Comitato Organizzatore\n\n\nResponsabile Scientifico\nProf. Manuel Sergi\nSapienza Università di Roma\n📧 manuel.sergi@uniroma1.it\n\n\nComitato Locale\nDr.ssa Giulia Napoli\nServizio Polizia Scientifica\n📧 giulia.napoli@poliziadistato.it"
+    "text": "👥 Comitato Organizzatore\n\n\nResponsabile Scientifico\nProf. Manuel Sergi\nSapienza Università di Roma\n\n\nComitato Locale\nDr.ssa Giulia Napoli\nPolizia Scientifica"
   },
   {
     "objectID": "contact.html#contatti-specifici",
@@ -172,7 +172,7 @@
     "href": "contact.html#enti-organizzatori",
     "title": "Contatti",
     "section": "🏛️ Enti Organizzatori",
-    "text": "🏛️ Enti Organizzatori\n\n\nSocietà Chimica Italiana (SCI)\n\nDivisione di Spettrometria di Massa\nDivisione di Chimica Analitica\nDivisione di Chimica Farmaceutica\n\n🌐 www.soc.chim.it\n\n\nPolizia di Stato\nServizio Polizia Scientifica - Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica\n🌐 www.poliziadistato.it"
+    "text": "🏛️ Enti Organizzatori\n\n\nSocietà Chimica Italiana (SCI)\n\nDivisione di Chimica Analitica\nDivisione di Chimica Farmaceutica\nDivisione di Spettrometria di Massa\n\n🌐 www.soc.chim.it\n\n\nPolizia di Stato\nServizio Polizia Scientifica - Direzione Centrale per la Polizia Scientifica e Sicurezza Cibernetica\n🌐 www.poliziadistato.it"
   },
   {
     "objectID": "contact.html#seguici",
@@ -242,13 +242,13 @@
     "href": "speakers.html#comitato-scientifico",
     "title": "Relatori",
     "section": "👥 Comitato Scientifico",
-    "text": "👥 Comitato Scientifico\n\n\n\nNome\nAffiliazione\nEmail\n\n\n\n\nGiulia Napoli\nPolizia Scientifica\ngiulia.napoli@poliziadistato.it\n\n\nSabino Napoletano\nPolizia Scientifica\nsabino.napoletano@poliziadistato.it\n\n\nGiuliana Bianco\nUniversità della Basilicata\ngiuliana.bianco@unibas.it\n\n\nEmanuela Gregori\nIstituto Superiore di Sanità\nemanuela.gregori@iss.it\n\n\nManuel Sergi\nSapienza Università di Roma\nmanuel.sergi@uniroma1.it\n\n\nFederica Bianchi\nUniversità di Parma\nfederica.bianchi@unipr.it\n\n\nMaria Laura Bolognesi\nUniversità di Bologna\nmarialaura.bolognesi@unibo.it\n\n\nLaura Mercolini\nUniversità di Bologna\nlaura.mercolini@unibo.it"
+    "text": "👥 Comitato Scientifico\n\n\n\nNome\nAffiliazione\n\n\n\n\nFederica Bianchi\nUniversità di Parma\n\n\nGiuliana Bianco\nUniversità della Basilicata\n\n\nMaria Laura Bolognesi\nUniversità di Bologna\n\n\nEmanuela Gregori\nIstituto Superiore di Sanità\n\n\nLaura Mercolini\nUniversità di Bologna\n\n\nGiulia Napoli\nPolizia Scientifica\n\n\nSabino Napoletano\nPolizia Scientifica\n\n\nManuel Sergi\nSapienza Università di Roma"
   },
   {
     "objectID": "speakers.html#comitato-organizzatore",
     "href": "speakers.html#comitato-organizzatore",
     "title": "Relatori",
     "section": "🗓️ Comitato Organizzatore",
-    "text": "🗓️ Comitato Organizzatore\n\n\n\nNome\nAffiliazione\nEmail\n\n\n\n\nMaria Maglieri\nPolizia Scientifica\nmaria.maglieri@poliziadistato.it\n\n\nMartina Pisano\nPolizia Scientifica\nmartina1.pisano@poliziadistato.it\n\n\nMauro Di Pasquale\nIstituto Superiore di Sanità\nmauro.dipasquale@iss.it\n\n\nEugenio Alladio\nUniversità di Torino\neugenio.alladio@unito.it\n\n\nIlenia Bracaglia\nSapienza Università di Roma\nilenia.bracaglia@uniroma1.it\n\n\n\n\n\n\n\n\n\n\nNota📢 Vuoi presentare?\n\n\n\nInvia il tuo abstract entro il 20 Febbraio 2026!\nInvia Abstract"
+    "text": "🗓️ Comitato Organizzatore\n\n\n\nNome\nAffiliazione\n\n\n\n\nEugenio Alladio\nUniversità di Torino\n\n\nIlenia Bracaglia\nSapienza Università di Roma\n\n\nMauro Di Pasquale\nIstituto Superiore di Sanità\n\n\nMaria Maglieri\nPolizia Scientifica\n\n\nMartina Pisano\nPolizia Scientifica\n\n\n\n\n\n\n\n\n\n\nNota📢 Vuoi presentare?\n\n\n\nInvia il tuo abstract entro il 20 Febbraio 2026!\nInvia Abstract"
   }
 ]

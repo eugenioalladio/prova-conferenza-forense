@@ -37,42 +37,53 @@ Accesso a tutte le sessioni, materiale congressuale, coffee break, pranzi e aper
 Clicca il pulsante per accedere al modulo di iscrizione:
 
 ::: {.text-center}
-[Modulo di Iscrizione](https://docs.google.com/forms/d/e/1FAIpQLSeiZtxUxUJ89U77SRXdY7TNWPJTO0LK7chluWqkD9u_W6sHIw/viewform?usp=dialog){.btn .btn-primary .btn-lg}
+[Modulo di Iscrizione](https://docs.google.com/forms/d/e/1FAIpQLSeiZtxUxUJ89U77SRXdY7TNWPJTO0LK7chluWqkD9u_W6sHIw/viewform?usp=sharing&ouid=114903231592459005966){.btn .btn-primary .btn-lg}
 :::
 
 ### 2. Pagamento
 
-Dopo aver inviato il modulo, riceverai un'email con le istruzioni per il pagamento.
+Il pagamento deve essere effettuato **esclusivamente tramite bonifico bancario** intestato alla Società Chimica Italiana.
 
-**Metodi di pagamento accettati:**
+::: {.callout-note appearance="minimal" icon=false}
+**Coordinate bancarie**
 
-- Bonifico bancario
+| | |
+|:--|:--|
+| **Banca** | Intesa Sanpaolo |
+| **Beneficiario** | Società Chimica Italiana |
+| **Indirizzo** | Viale Liegi 48c, 00198 Roma (Italy) |
+| **IBAN** | IT61F0306909606100000131814 |
+| **Swift/BIC** | BCITITMMXXX |
+| **Causale** | CAF2025 Nome Cognome |
 
-**Coordinate bancarie:**
-```
-Banca: [Nome Banca]
-Intestatario: [Nome]
-IBAN: [Numero IBAN]
-BIC/SWIFT: [Codice]
-Causale: MSFOR2026 - [Cognome]
-```
+:::
+
+::: {.callout-warning}
+## ⚠️ Importante
+Nella causale del bonifico, specificare **nome e cognome del partecipante**.
+:::
 
 ### 3. Conferma
 
-Una volta ricevuto il pagamento, riceverai un'email di conferma con il tuo numero di registrazione.
+Una volta effettuata l'iscrizione, si prega di salvare il form compilato.
 
 :::
 
 ---
 
-## 📅 Scadenze
+## 📆 Date importanti
 
-| Evento | Data |
-|:-------|-----:|
-| Apertura iscrizioni | 7 Gennaio 2026 |
-| Deadline invio abstract | 20 Febbraio 2026 |
-| Notifica accettazione | 2 Marzo 2026 |
-| Workshop | 17-18 Marzo 2026 |
+::: {.callout-important appearance="simple" icon=false}
+## 🗓️ Save the dates!
+
+| | |
+|:--|:--|
+| 📂 **Apertura iscrizioni** | **7 Gennaio 2026** |
+| 📝 **Deadline invio abstract** | **20 Febbraio 2026** |
+| ✅ **Notifica accettazione** | **2 Marzo 2026** |
+| 🎯 **Workshop** | **17-18 Marzo 2026** |
+
+:::
 
 ---
 

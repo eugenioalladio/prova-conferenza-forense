@@ -25,16 +25,14 @@ Rispondiamo entro 2-3 giorni lavorativi.
 ### Responsabile Scientifico
 
 **Prof. Manuel Sergi**  
-Sapienza Università di Roma  
-📧 [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it)
+Sapienza Università di Roma
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### Comitato Locale
 
 **Dr.ssa Giulia Napoli**  
-Servizio Polizia Scientifica  
-📧 [giulia.napoli@poliziadistato.it](mailto:giulia.napoli@poliziadistato.it)
+Polizia Scientifica
 :::
 
 :::
@@ -59,9 +57,9 @@ Servizio Polizia Scientifica
 ::: {.g-col-12 .g-col-md-6}
 **Società Chimica Italiana (SCI)**
 
-- [Divisione di Spettrometria di Massa](https://www.spettrometriadimassa.it/)
 - [Divisione di Chimica Analitica](https://www.soc.chim.it/it/divisioni/analitica/home)
 - [Divisione di Chimica Farmaceutica](https://www.soc.chim.it/it/divisioni/farmaceutica/home)
+- [Divisione di Spettrometria di Massa](https://www.spettrometriadimassa.it/)
 
 🌐 [www.soc.chim.it](https://www.soc.chim.it/)
 :::

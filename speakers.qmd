@@ -79,28 +79,28 @@ Breve biografia del relatore. Descrizione delle aree di ricerca e principali con
 
 ## 👥 Comitato Scientifico
 
-| Nome | Affiliazione | Email |
-|:-----|:-------------|:------|
-| Giulia Napoli | Polizia Scientifica | [giulia.napoli@poliziadistato.it](mailto:giulia.napoli@poliziadistato.it) |
-| Sabino Napoletano | Polizia Scientifica | [sabino.napoletano@poliziadistato.it](mailto:sabino.napoletano@poliziadistato.it) |
-| Giuliana Bianco | Università della Basilicata | [giuliana.bianco@unibas.it](mailto:giuliana.bianco@unibas.it) |
-| Emanuela Gregori | Istituto Superiore di Sanità | [emanuela.gregori@iss.it](mailto:emanuela.gregori@iss.it) |
-| Manuel Sergi | Sapienza Università di Roma | [manuel.sergi@uniroma1.it](mailto:manuel.sergi@uniroma1.it) |
-| Federica Bianchi | Università di Parma | [federica.bianchi@unipr.it](mailto:federica.bianchi@unipr.it) |
-| Maria Laura Bolognesi | Università di Bologna | [marialaura.bolognesi@unibo.it](mailto:marialaura.bolognesi@unibo.it) |
-| Laura Mercolini | Università di Bologna | [laura.mercolini@unibo.it](mailto:laura.mercolini@unibo.it) |
+| Nome | Affiliazione |
+|:-----|:-------------|
+| Federica Bianchi | Università di Parma |
+| Giuliana Bianco | Università della Basilicata |
+| Maria Laura Bolognesi | Università di Bologna |
+| Emanuela Gregori | Istituto Superiore di Sanità |
+| Laura Mercolini | Università di Bologna |
+| Giulia Napoli | Polizia Scientifica |
+| Sabino Napoletano | Polizia Scientifica |
+| Manuel Sergi | Sapienza Università di Roma |
 
 ---
 
 ## 🗓️ Comitato Organizzatore
 
-| Nome | Affiliazione | Email |
-|:-----|:-------------|:------|
-| Maria Maglieri | Polizia Scientifica | [maria.maglieri@poliziadistato.it](mailto:maria.maglieri@poliziadistato.it) |
-| Martina Pisano | Polizia Scientifica | [martina1.pisano@poliziadistato.it](mailto:martina1.pisano@poliziadistato.it) |
-| Mauro Di Pasquale | Istituto Superiore di Sanità | [mauro.dipasquale@iss.it](mailto:mauro.dipasquale@iss.it) |
-| Eugenio Alladio | Università di Torino | [eugenio.alladio@unito.it](mailto:eugenio.alladio@unito.it) |
-| Ilenia Bracaglia | Sapienza Università di Roma | [ilenia.bracaglia@uniroma1.it](mailto:ilenia.bracaglia@uniroma1.it) |
+| Nome | Affiliazione |
+|:-----|:-------------|
+| Eugenio Alladio | Università di Torino |
+| Ilenia Bracaglia | Sapienza Università di Roma |
+| Mauro Di Pasquale | Istituto Superiore di Sanità |
+| Maria Maglieri | Polizia Scientifica |
+| Martina Pisano | Polizia Scientifica |
 
 ---
 
